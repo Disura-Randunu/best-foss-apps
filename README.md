@@ -1,5 +1,6 @@
 # Best FOSS Apps I Personally Use For Various Stuff
 A list of open source apps which can be useful for you as well!
+<hr>
 
 ### PDF
 
@@ -7,9 +8,13 @@ A list of open source apps which can be useful for you as well!
 
 [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF)
 
+<hr>
+
 ### Observability (APM)
 
 [Beszel](https://github.com/henrygd/beszel)
+
+<hr>
 
 ### Authentication (OIDC / SSO)
 
