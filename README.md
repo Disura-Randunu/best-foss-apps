@@ -11,3 +11,8 @@ A list of open source apps which can be useful for you as well!
 
 [Beszel](https://github.com/henrygd/beszel)
 
+### Authentication (OIDC / SSO)
+
+[Keycloak](https://github.com/keycloak/keycloak)
+
+
